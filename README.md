@@ -7,7 +7,10 @@
 
 ### Controls
 - **Z** — Jump
+
 - **X** — Sword Attack
+- **UP** - **X** — Secondary Attack
+
 - **A** — Raise Shield
 
 ### Notes

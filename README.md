@@ -3,7 +3,7 @@
 
 [Play the Demo](https://jerryi.github.io/pico-castle/)
 
-**Cursed Castle** is my first attempt at creating a game for the PICO-8 fantasy console, featuring dynamic lighting and a parallax background. *Don't expect much, it's just a few rooms*
+**Cursed Castle** is my first attempt at creating a game (and pixel art) for the PICO-8 fantasy console, featuring dynamic lighting and a parallax background. *Don't expect much, it's just a few rooms*
 
 ### Controls
 - **Z** — Jump
